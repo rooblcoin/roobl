@@ -1,3 +1,2 @@
-FooCoin (FOO)
+rooblcoin RMM
 
-Blah, blah, blah.
